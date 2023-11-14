@@ -48,8 +48,8 @@ Welcome to Robo Friends! This project is a simple React application created usin
 
 ## Screenshots
 
-![Robo Friends Screenshot 1](/screenshots/Image-1.png)
+![Robo Friends Screenshot 1](/screenshots/screenshot1.png)
 
-![Robo Friends Screenshot 2](/screenshots/Image-2.png)
+![Robo Friends Screenshot 2](/screenshots/screenshot2.png)
 
-![Robo Friends Screenshot 3](/screenshots/Image-3.png)
+![Robo Friends Screenshot 3](/screenshots/screenshot3.png)
