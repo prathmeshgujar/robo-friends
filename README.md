@@ -1,8 +1,6 @@
 # Robo Friends
 
-![Robo Friends Logo](/src/images/robo-friends-logo.png)
-
-> A fun and interactive React web application that lets you explore a community of robot friends.
+> A simple and interactive React web application that lets you explore a community of robot friends.
 
 ## Table of Contents
 
@@ -50,11 +48,8 @@ Welcome to Robo Friends! This project is a simple React application created usin
 
 ## Screenshots
 
-![Robo Friends Screenshot 1](/screenshots/Image 1.png)
-*Caption for Screenshot 1.*
+![Robo Friends Screenshot 1](/screenshots/Image-1.png)
 
-![Robo Friends Screenshot 2](/screenshots/Image 2.png)
-*Caption for Screenshot 2.*
+![Robo Friends Screenshot 2](/screenshots/Image-2.png)
 
-![Robo Friends Screenshot 3](/screenshots/Image 3.png)
-*Caption for Screenshot 3.*
+![Robo Friends Screenshot 3](/screenshots/Image-3.png)
