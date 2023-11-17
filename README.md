@@ -25,7 +25,7 @@ Welcome to Robo Friends! This project is a simple React application created usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/robo-friends.git
+   git clone https://github.com/prathmeshgujar/robo-friends.git
 
 2. Navigate to the project directory:
 
